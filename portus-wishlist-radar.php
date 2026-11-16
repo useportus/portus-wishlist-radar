@@ -3,7 +3,7 @@
  * Plugin Name: Portus Wishlist Radar
  * Plugin URI: https://useportus.com/portus-wishlist-radar-free/
  * Description: Lista de desejos responsiva para WooCommerce. O complemento Pro adiciona alertas de preço e reposição.
- * Version: 1.1.4
+ * Version: 1.1.5
  * Author: Portus
  * Author URI: https://useportus.com/
  * Text Domain: portus-wishlist-radar
@@ -14,7 +14,7 @@
  */
 
 defined( 'ABSPATH' ) || exit;
-define( 'PORTUS_WR_VERSION', '1.1.4' );
+define( 'PORTUS_WR_VERSION', '1.1.5' );
 define( 'PORTUS_WR_FILE', __FILE__ );
 require_once __DIR__ . '/includes/class-portus-wr-compatibility.php';
 require_once __DIR__ . '/includes/class-pwr-plugin.php';

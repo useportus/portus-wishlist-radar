@@ -58,7 +58,7 @@ The `wordpress-org-assets/` directory contains the public icon, banners, and scr
 
 ## Development Notes
 
-The runtime files mirror the published Free 1.1.4 package. Releases to WordPress.org are handled separately through its official SVN repository. GitHub updates do not automatically publish a new directory release.
+The runtime files mirror the published Free 1.1.5 package. Releases to WordPress.org are handled separately through its official SVN repository. GitHub updates do not automatically publish a new directory release.
 
 ## Maintainer
 

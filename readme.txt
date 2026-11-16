@@ -5,7 +5,7 @@ Requires at least: 6.5
 Tested up to: 7.1
 Requires PHP: 7.4
 Requires Plugins: woocommerce
-Stable tag: 1.1.4
+Stable tag: 1.1.5
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -79,6 +79,9 @@ Existing unsubscribe links and personal-data controls remain available in the ba
 6. Empty wishlist with a link to explore the shop.
 
 == Changelog ==
+
+= 1.1.5 =
+* Match the dashboard logo to the directory icon with subtle rounded corners and transparent edges.
 
 = 1.1.4 =
 * Added WordPress nonce validation to email confirmation and unsubscribe forms, in addition to the existing record-bound token checks.
